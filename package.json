@@ -1,0 +1,15 @@
+{
+  "name": "devtool-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mizx/devtool-test.git",
+  "author": "Cody <mizx@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "serve test"
+  },
+  "devDependencies": {
+    "serve": "^9.3.0"
+  }
+}
